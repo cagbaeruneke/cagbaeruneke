@@ -1,6 +1,6 @@
 ## Hi I'm Chidi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Chidi Agbaeruneke, a recent graduate student at American University where I studied Analytics and Data Science. I spend a lot of time coding and collaborating on projects.
+I'm Chidi Agbaeruneke, a recent graduate student of American University where I studied Analytics and Data Science. I spend a lot of time coding and collaborating on projects.
 
 :mailbox: Connect with me!
 
